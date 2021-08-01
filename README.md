@@ -46,5 +46,5 @@ Fare earnings reached the all time high for all cities in last week of February.
 
 1. The ratio of drivers to rides should be examined to understand the reasons for a high number of drivers in camparison to the number of rides. Hypothetically the inactive profiles might have cuased this odd ratio.
 2. The peak of earnings in last week of Feb is important to study and further analysis is necessary. Hypothetically, weather conditions in Feb might have cuased the influx of riders and therefore earnings increased. This hypothesis can be tested by integrating the weather data using OpenWeather API and correlateing the metrics such as wind, rain, tempruture to the number of rides.
-3. The over all trend need to be studied to understand that earnings are deman driven or supply driven. In other word, we need to understand the earnings are affected by the availability and accessibilty of the rides or affected by other external elements such as weather conditions or events.      
+3. The overall trend need to be studied further to understand wether the earnings are demand driven or supply driven. In other word, we need to understand the earnings or ride-sharing are affected by the availability and accessibilty of the rides in diffrent cities or affected by other external elements such as weather conditions or events.      
 
