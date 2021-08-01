@@ -29,6 +29,8 @@
     
 1. Ride-sharing dataframe:
 
+![](analysis/PyBer_dataframe.png)
+
 The numebr of ride-sharing and drivers are significantly higher in Urban cities (1,625 rides, 2,405 drivers) followed by Suburban cities (625 rides, 490 drivers) and Rural cities (125 rides, 78 drivers). It is worth to note that in all areas the ratio of total rides and number of drivers ( Total Rides/Total Drivers) is higher in Rural cities (1.6) and followed by Suburban cities (1.3) and Urban cities (0.7)
 
 Similiarly the total fares earning is higher in Urban cities (~40K) followed by Suburban (~19K) and Rural (~4K). However, per capita fare earnings are higher in rural cities (34.62 per ride, 55.49 per driver) followed by Suburban cities (30.97 per ride, 39.50 per driver) and Urban cities (24.53 per ride, 16.57 per driver)  
@@ -36,6 +38,7 @@ Similiarly the total fares earning is higher in Urban cities (~40K) followed by 
 
 2. Ride-sharing line graph (01 Jan - 29 April 2019):
 
+![](analysis/PyBer_fare_summary.png)
 
 Fare earnings reached the all time high for all cities in last week of February. Both Urban and SubUrban cities had a higher fare earnings by last week of April than the earning levels at first week of January. Rural cities, however, settled at the same level of earnings at first week of January by closing at last week of April. Overall trend for all cities is increasing earnings from first week of Jan to last week of Feb, declining earnings from last week of Feb continueing to the first two weeks of Mar and thereafter earnings fluactuating up and down by the end of April.   
         
